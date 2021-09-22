@@ -1,4 +1,6 @@
-# Project 9 - Front-end Dashboard
+# [OC] Projet 12 - Développez un tableau de bord d'analytics avec React
+
+# Backend
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
