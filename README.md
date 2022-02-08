@@ -1,8 +1,8 @@
-# [OC] Projet 12 - Développez un tableau de bord d'analytics avec React
+# Fitview
 
 # Backend
 
-This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
+This repo contains all the source code to run the micro API for the sports analytics dashboard Fitview.
 
 ## 1. General information
 
